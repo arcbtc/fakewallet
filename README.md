@@ -1,4 +1,5 @@
 
+[![dontpanic](https://i.imgur.com/OHFlGCc.jpg)]
 
 # DON'T PANIC - a bitcoin panic button/fake wallet
 
