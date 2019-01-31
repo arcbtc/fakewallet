@@ -8,7 +8,7 @@ If your stash comes under attack, trick the assailants into thinking your panic 
 
 ## Hardware needed
 
-* ESP32 (without built in OLED!)
+* ESP32 
 
 ## Notes
 
