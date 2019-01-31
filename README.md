@@ -1,4 +1,4 @@
-![alt text](https://i.imgur.com/YAOhkYz.png)
+
 
 # DON'T PANIC - a bitcoin panic button/fake wallet
 
