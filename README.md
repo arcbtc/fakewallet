@@ -4,7 +4,7 @@
 
 If your stash comes under attack, trick the assailants into thinking your panic alarm is a HD wallet!
 
-[![LN Slave Mod](https://imgur.com/a/dSnDZU5)](https://www.youtube.com/watch?v=yxiafO4Tc-A)
+[![LN Slave Mod](https://i.imgur.com/OHFlGCc.jpg)](https://www.youtube.com/watch?v=yxiafO4Tc-A)
 
 ## Hardware needed
 
