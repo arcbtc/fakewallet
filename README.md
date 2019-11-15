@@ -14,3 +14,8 @@ If your stash comes under attack, trick the assailants into thinking your panic 
 Obv secure your stash appropriately, this is just an additional measure.
 
 [![LN Slave Mod](https://i.imgur.com/SaRxSpM.jpg)](https://www.youtube.com/watch?v=6jFTr1sfUvI)
+
+# Tip me
+If you like this project and might even use or extend it, why not send some tip love!
+https://paywall.link/to/f4e4e
+
